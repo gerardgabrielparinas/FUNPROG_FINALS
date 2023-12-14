@@ -1,0 +1,40 @@
+C:\Users\gabriel\Desktop\Trex_runner\bin\Debug\Trex_runner.exe.config
+C:\Users\gabriel\Desktop\Trex_runner\bin\Debug\Trex_runner.exe
+C:\Users\gabriel\Desktop\Trex_runner\bin\Debug\Trex_runner.pdb
+C:\Users\gabriel\Desktop\Trex_runner\obj\Debug\Trex_runner.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\Trex_runner\obj\Debug\Trex_runner.Properties.Resources.resources
+C:\Users\gabriel\Desktop\Trex_runner\obj\Debug\Trex_runner.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\Trex_runner\obj\Debug\Trex_runner.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\Trex_runner\obj\Debug\Trex_runner.exe
+C:\Users\gabriel\Desktop\Trex_runner\obj\Debug\Trex_runner.pdb
+C:\Users\gabriel\Desktop\Trex_runner\obj\Debug\Trex_runner.GameScreen.resources
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_FinalMP\bin\Debug\Trex_runner.exe.config
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_FinalMP\bin\Debug\Trex_runner.exe
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_FinalMP\bin\Debug\Trex_runner.pdb
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.GameScreen.resources
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.Properties.Resources.resources
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.exe
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.pdb
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_FinalMP\bin\Debug\Trex_runner.exe.config
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_FinalMP\bin\Debug\Trex_runner.exe
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_FinalMP\bin\Debug\Trex_runner.pdb
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.csproj.AssemblyReference.cache
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.GameScreen.resources
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.Properties.Resources.resources
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.csproj.GenerateResource.cache
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.csproj.CoreCompileInputs.cache
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.exe
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_FinalMP\obj\Debug\Trex_runner.pdb
+D:\Documents\Benilde stuff\1st Year\2nd term\FUNPROG\Flappy-Box\bin\Debug\Trex_runner.exe.config
+D:\Documents\Benilde stuff\1st Year\2nd term\FUNPROG\Flappy-Box\bin\Debug\Trex_runner.exe
+D:\Documents\Benilde stuff\1st Year\2nd term\FUNPROG\Flappy-Box\bin\Debug\Trex_runner.pdb
+D:\Documents\Benilde stuff\1st Year\2nd term\FUNPROG\Flappy-Box\obj\Debug\Trex_runner.csproj.AssemblyReference.cache
+D:\Documents\Benilde stuff\1st Year\2nd term\FUNPROG\Flappy-Box\obj\Debug\Trex_runner.GameScreen.resources
+D:\Documents\Benilde stuff\1st Year\2nd term\FUNPROG\Flappy-Box\obj\Debug\Trex_runner.Properties.Resources.resources
+D:\Documents\Benilde stuff\1st Year\2nd term\FUNPROG\Flappy-Box\obj\Debug\Trex_runner.csproj.GenerateResource.cache
+D:\Documents\Benilde stuff\1st Year\2nd term\FUNPROG\Flappy-Box\obj\Debug\Trex_runner.csproj.CoreCompileInputs.cache
+D:\Documents\Benilde stuff\1st Year\2nd term\FUNPROG\Flappy-Box\obj\Debug\Trex_runner.exe
+D:\Documents\Benilde stuff\1st Year\2nd term\FUNPROG\Flappy-Box\obj\Debug\Trex_runner.pdb
